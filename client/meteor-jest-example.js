@@ -20,5 +20,5 @@ if (typeof Template !== 'undefined') {
 
 }
 
-var JestTest = require('../packages/jest-test/jest-test.js')
-var myVar = JestTest.sum(1, 2);
+// var JestTest = require('../packages/jest-test/jest-test.js')
+// var myVar = JestTest.sum(1, 2);
